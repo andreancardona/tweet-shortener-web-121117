@@ -41,5 +41,3 @@ def selective_tweet_shortener (singletweet)
     return singletweet
 end
 end
-
-
