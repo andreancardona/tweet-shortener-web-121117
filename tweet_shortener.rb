@@ -51,4 +51,3 @@ def shortened_tweet_truncator (singletweet)
    return singletweet
 end
 end
-    
